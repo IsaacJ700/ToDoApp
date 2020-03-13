@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Remind!</string>
+    <string name="login">Login</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="attempts_remaining_5">Attempts Remaining: 5</string>
+    <string name="save_my_login_credentials">Save my Login Credentials!</string>
+</resources>

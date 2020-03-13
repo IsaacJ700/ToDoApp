@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92624255252",
+    "firebase_url": "https://remindapp009.firebaseio.com",
+    "project_id": "remindapp009",
+    "storage_bucket": "remindapp009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92624255252:android:929c667c1dc0c50d60aa01",
+        "android_client_info": {
+          "package_name": "com.example.remind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92624255252-n82fvlnb05lpk7k8rp19b0f5nih520ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKzmbpXIvPe7X0c87cQWRaY2VKqaQfLvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92624255252-n82fvlnb05lpk7k8rp19b0f5nih520ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
